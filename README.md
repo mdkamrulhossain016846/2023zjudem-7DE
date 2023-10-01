@@ -4,5 +4,5 @@
 * HOSSAIN MD KAMRUL      22351412
 * TIMBO ISATOU DAPHNE    22351416
 * ZANNAT MOST NAHARE     22351413
-* [GAKIZA NANCY 22351423]( https://nanagak.github.io/)         
+[GAKIZA NANCY 22351423]( https://nanagak.github.io/)         
 * MORAKE OMOGOLO OMAATLA 22351384
