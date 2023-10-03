@@ -7,6 +7,7 @@
 
 [PRINCE MD MASUD PERVEZ 22351419](https://masud613.github.io/my_page3/)
 
-* TIMBO ISATOU DAPHNE    22351416
+[TIMBO ISATOU DAPHNE    22351416](https://daphnetimbo.github.io/daphnes_page/)
+
 * ZANNAT MOST NAHARE     22351413      
 * [MORAKE OMOGOLO OMAATLA 22351384](https://lilymorake.github.io/)
