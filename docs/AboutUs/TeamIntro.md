@@ -1,4 +1,4 @@
-<h1 align="center"> Team Member </h1>
+<h1 align="center"><span style="font:bold; font-size:40px"><span style="color:green">7</span><span style="color:red">DE</span></span>er's </h1>
 
 
 
