@@ -79,7 +79,7 @@ To push the code in origin need to save the code and open GitHub Desktop and giv
 
 Follow the step 3. As the docs folder created, now to publish the page open the repository and as follow
 
-> setting > page > under page select the main branch and slect docs from the folder and save it and then the web page link will be available.
+> setting > page > under page select the main branch and slect docs from the folder and save it and then the web page link will be available..
 
 Picture -
 <img src="img/tm_logo/github_repositoryopen/final_publish.png">
