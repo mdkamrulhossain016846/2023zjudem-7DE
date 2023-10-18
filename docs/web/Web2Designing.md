@@ -92,13 +92,15 @@ Now to create the doc folder give the following command in terminal
 ### STEP-7 Code writing 
 
 In this section we explained how the write the document file and add upload picture and explain the html file.
-
+- ### Documetn writing
 >To write the document file just need to open .md file inside docs and edit it, for our team repository the document file for our this page (web2Designing.md) looks like as the picture below -
 <img src="img/tm_logo/github_repositoryopen/1stdoc.png">
 
 - ### Add image
 > To add image we stored all the images in a folder inside doc file and linked it with picture's path where needed. we use the normal html command to add image. 
 <img src="img/tm_logo/github_repositoryopen/addimg.png">
+
+- ### HTML file setting
 
 HTML file details. (html file can be edit as your need) 
  > - In this html file there are some linked css file to design webpage
