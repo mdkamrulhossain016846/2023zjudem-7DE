@@ -60,7 +60,7 @@
                             <h3 class="title">Gazika Nancy</h3>
 
 
-[Contact](https://nanagak.github.io/)
+[Contact](https://nanagak.github.io/Nanagaki.github.io/)
                         </div>
                     </div>
                 </div>
