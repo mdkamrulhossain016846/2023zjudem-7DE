@@ -10,7 +10,7 @@ STEP-3 : Publish the page from <a href="https://github.com/">GitHub.</a><br>
 STEP-4 : Clone the repository into <a href="https://desktop.github.com/">GitHub Desktop.</a><br>
 STEP-5 : Open the repository into <a href="https://code.visualstudio.com/">Visual Studio Code</a> and write the code.<br>
 STEP-6 : Install Docsify from terminal.<br>
-STEP-7 : Code writing.
+STEP-7 : Code writing.<br>
 STEP-8 : Push all the changes into origin.<br>
 
 ### STEP-1 : Installing all the necessary tools<br>
