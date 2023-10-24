@@ -81,13 +81,34 @@ Now to create the doc folder give the following command in terminal
 
 - ### Add navigation bar and side bar 
 
->To add the navigation bar and side bar need to give the "loadsidebar" and "loadnavbar" true into script named "window.$docsify" inside main html file and then create _navbar.md and _sidebar.md file under docs and edit it as your need. (see pictures below)
+>To add the navigation bar and side bar need to give the "loadsidebar" and "loadnavbar" true into script named "window.$docsify" inside main html file and then create _navbar.md and _sidebar.md file under docs and edit it as your need. (see code below)
 
 <img src="img/tm_logo/github_repositoryopen/navsidebartrue.png">
 
-> _navbar.md<img src="img/tm_logo/github_repositoryopen/_navbar.png"><br>
+_navbar.md 
+<pre>
+<code>
+- [Home]()
+- [About US](AboutUs/TeamIntro.md)
+</code>
+</pre>
+<br>
 
-> _sidebar.md <img src="img/tm_logo/github_repositoryopen/_sidebar.png">
+_sidebar.md 
+<pre>
+<code>
+- **1. Project Management**
+   - [1. Website](web/Web2Designing.md)
+   - [2. Autodesk](cad/cad.md)
+
+- Final Project
+  - [Final project](FinalProject/FinalProject.md) 
+  
+- [About US](AboutUs/TeamIntro.md)
+</code>
+</pre>
+<br>
+
 
 ### STEP-7 Code writing 
 
@@ -106,6 +127,9 @@ HTML file details. (html file can be edit as your need)
  > - In this html file there are some linked css file to design webpage
  > - Some content inside body section
  > - Load homepage, navigation and side bar.
+ > - There are some links and script to design our document file and add code in document.
+ <br>
+ <br>
  <img src="img/tm_logo/github_repositoryopen/html.png">
 
 
