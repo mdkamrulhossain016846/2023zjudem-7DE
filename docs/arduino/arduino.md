@@ -84,4 +84,4 @@ Project video
         </video>
     </div>
 
-This project demonstrates the basic concept of digital input (reading the switch) and digital output (controlling the LEDs) using an Arduino.
+This project demonstrates the basic concept of digital input (reading the switch) and digital output (controlling the LEDs) using an Arduino..
