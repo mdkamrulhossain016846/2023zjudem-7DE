@@ -59,14 +59,63 @@ Autodesk Fusion 360 is a highly popular and versatile computer-aided design (CAD
 Autodesk Fusion 360 has gained popularity among professionals and hobbyists in various industries, including mechanical engineering, product design, industrial design, and more. Its combination of 3D modeling, simulation, and integrated CAM tools makes it a comprehensive solution for the entire product development process, from concept to manufacturing.
 <hr>
 <br>
+
+### Design procedures
+<h3>Steps of the Design: Slider Crank Mechanism</h3>
+<br>
+
+1. Create a new design
+<img src="img/360/3601.png">
 <br>
 <br>
 
-<h1 align="center">Design's</h1>
+2. Go to Documents Settings and make sure the Units are mm(millimeters).(you can choose units by your needs)
+<img src="img/360/3602.png">
+<br>
+<br>
 
-### Team member's design
+3. Create a new component (component 1), make sure the Activate box is selected then click Ok.
+<img src="img/360/3603.png">
+<br>
+<br>
 
-### <a href="https://nanagak.github.io/Nanagaki.github.io/">Gakiza Nanncy</a>
+4. Click on sketch on the front plan to make the new component in the front plan (top view).
+<img src="img/360/3604.png">
+<br>
+<br>
+
+5. Draw a form a specify the size of it then click finish sketch. Click on extrude and specify the length of your extrusion.
+<img src="img/360/3605.png">
+<img src="img/360/3606.png">
+<img src="img/360/3607.png">
+<br>
+<br>
+
+6. Use the same procedures to create another component (component2) on top of the first component.
+<img src="img/360/3608.png">
+<img src="img/360/3609.png">
+<br>
+
+7. Use different tools to modify, add and adjust the components.
+<img src="img/360/36010.png">
+<img src="img/360/36011.png">
+<img src="img/360/36012.png">
+<img src="img/360/36013.png">
+<img src="img/360/36014.png">
+<img src="img/360/36015.png">
+<img src="img/360/36016.png">
+<img src="img/360/36017.png">
+<br>
+<br>
+
+8. Make an assembly.
+<img src="img/360/36018.png">
+<img src="img/360/36019.png">
+<img src="img/360/36020.png">
+<img src="img/360/36021.png">
+<img src="img/360/36022.png">
+
+9. Final result
 
 <div id="video-container">
         <video controls>
@@ -74,10 +123,12 @@ Autodesk Fusion 360 has gained popularity among professionals and hobbyists in v
         </video>
     </div>
 
-<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH512d4QTec90decfa6e5afc6d10fef30b36?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-> Design procedure (Coming soon)
-<hr>
-<hr>
+
+
+
+<h1 align="center">Practice</h1>
+
+### Team member's design
 
 ### <a href="https://nahidbadhon.github.io/badhonspage/">Nahid Hasan Badhan</a>
 
@@ -89,6 +140,17 @@ Autodesk Fusion 360 has gained popularity among professionals and hobbyists in v
 
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH512d4QTec90decfa6ef43e4a418112848d?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+> Design procedure (Coming soon)
+
+### <a href="https://nanagak.github.io/Nanagaki.github.io/">Gakiza Nanncy</a>
+
+<div id="video-container">
+        <video controls>
+            <source src="video/video_cad/nancy_cad.mp4" type="video/mp4">
+        </video>
+    </div>
+
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH512d4QTec90decfa6e5afc6d10fef30b36?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 > Design procedure (Coming soon)
 <hr>
 <hr>
