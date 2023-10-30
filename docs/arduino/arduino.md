@@ -65,7 +65,8 @@ Step 4: Test the Circuit
 After uploading the code, the LEDs will start in the OFF state. Press the push-button switch, and both LEDs should toggle between ON and OFF states with each press.
 <br>
 
-Simulation in Arduino software
+Simulation in Arduino simulation software.Here we use <a href="https://www.tinkercad.com/dashboard"> Tinkercad</a>
+<br>
 <img src="img/arduino/ar_simulation.png">
 <style>
 video-container {
