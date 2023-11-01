@@ -93,11 +93,12 @@ Now to create the doc folder give the following command in terminal
 ~~~  
 
 _navbar.md 
+
 ~~~
 - [Home]()
 - [About US](AboutUs/TeamIntro.md)
-</code>
 ~~~
+
 <br>
 
 _sidebar.md 
@@ -111,6 +112,7 @@ _sidebar.md
   
 - [About US](AboutUs/TeamIntro.md)
 ~~~
+
 <br>
 
 
@@ -291,7 +293,9 @@ Picture -
 
 - ### Add image
 > To add image we stored all the images in a folder inside doc file and linked it with picture's path where needed. we use the normal html command to add image. 
-<img src="img/tm_logo/github_repositoryopen/addimg.png">
+~~~
+  <img src="image path">
+~~~
 
 - ### HTML file setting
 
@@ -302,7 +306,37 @@ HTML file details. (html file can be edit as your need)
  > - There are some links and script to design our document file and add code in document.
  <br>
  <br>
- <img src="img/tm_logo/github_repositoryopen/html.png">
+
+ ~~~
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Delete page</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+</head>
+<body>
+  <div id="app">
+    <h1>Welcome to My Website</h1>
+    <p>This is a simple example of adding content to your HTML page.</p>
+  </div>
+  <script>
+    window.$docsify = {
+      name: '',
+      repo: '',
+      homepage: 'home.md',
+      loadNavbar: true, // Enable the navbar
+      loadSidebar: true, // Enable the sidebar
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+</body>
+</html>
+ ~~~
 
 
 
