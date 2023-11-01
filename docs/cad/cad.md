@@ -185,5 +185,20 @@ Autodesk Fusion 360 has gained popularity among professionals and hobbyists in v
 <hr>
 <hr>
 
+### <a href="https://mdkamrulhossain016846.github.io/fasttut/">Hussain MD Kamrul</a>
+
+<div id="video-container">
+        <video controls>
+            <source src="video/video_cad/kamrul_cad.mp4" type="video/mp4">
+        </video>
+    </div>
+
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH512d4QTec90decfa6e7523a79b7217e601?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+> Design procedure (Coming soon)
+
+
+
+
 
 
