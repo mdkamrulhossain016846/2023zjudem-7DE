@@ -25,8 +25,7 @@ Step 1: Circuit Connection
 - Connect the other terminal of the push-button switch to the Arduino's ground (GND) pin.
 
 Step 2: Write the arduino Code
-<pre>
-    <Code>
+~~~
     const int LED1=12;
 const int LED2=13;
 int val=0; 
@@ -50,8 +49,7 @@ else
 }
 delay(1000);
 }
-    </code>
-</pre>
+~~~
 
 Step 3: Upload the Code
 
