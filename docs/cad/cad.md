@@ -60,9 +60,17 @@ Autodesk Fusion 360 has gained popularity among professionals and hobbyists in v
 <hr>
 <br>
 
+### Install Fusion 360
+To install click <a href="https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription"> Fusion 360</a>.Free version can not be use more than 30 days. If you have an educational email, as a student you can use it for one year free access.
+
 ### Design procedures
 <h3>Steps of the Design: Slider Crank Mechanism</h3>
 <br>
+
+### Engineering drawing of slider Crank Machanism
+<img src="img/360/eng_drawing.png">
+
+
 
 1. Create a new design
 <img src="img/360/3601.png">
@@ -130,8 +138,14 @@ Autodesk Fusion 360 has gained popularity among professionals and hobbyists in v
 
 ### Team member's design
 
-### <a href="https://nahidbadhon.github.io/badhonspage/">Nahid Hasan Badhan</a>
+<a href="https://nahidbadhon.github.io/badhonspage/">Nahid Hasan Badhan</a>
 
+### Plugin
+ plugin used in this design is super gear.One with 24 teeth and other with 12 teeth.
+ - Plugin details
+ <img src="img/360/super_gear.png">
+
+- Animation video(screen record)
 <div id="video-container">
         <video controls>
             <source src="video/video_cad/badhon_cad.mp4" type="video/mp4">
@@ -140,9 +154,17 @@ Autodesk Fusion 360 has gained popularity among professionals and hobbyists in v
 
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH512d4QTec90decfa6ef43e4a418112848d?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-> Design procedure (Coming soon)
+### Parameter design practice
 
-### <a href="https://nanagak.github.io/Nanagaki.github.io/">Gakiza Nanncy</a>
+<div id="video-container">
+        <video controls>
+            <source src="video/video_cad/parameter.mp4" type="video/mp4">
+        </video>
+    </div>
+
+
+
+<a href="https://nanagak.github.io/Nanagaki.github.io/">Gakiza Nanncy</a>
 
 <div id="video-container">
         <video controls>
@@ -155,7 +177,7 @@ Autodesk Fusion 360 has gained popularity among professionals and hobbyists in v
 <hr>
 <hr>
 
-### <a href="https://masud613.github.io/my_page4/">MD MASUD PERVEZ PRINCE</a>
+<a href="https://masud613.github.io/my_page4/">MD MASUD PERVEZ PRINCE</a>
 
 <div id="video-container">
         <video controls>
@@ -165,12 +187,11 @@ Autodesk Fusion 360 has gained popularity among professionals and hobbyists in v
 
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH512d4QTec90decfa6ebbfcd22e09205bd7?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-> Design procedure (Coming soon)
 
 <hr>
 <hr>
 
-### <a href="https://lilymorake.github.io/lillym.github.io/">Morake Omogolo Omaatla</a>
+<a href="https://lilymorake.github.io/lillym.github.io/">Morake Omogolo Omaatla</a>
 
 <div id="video-container">
         <video controls>
@@ -180,12 +201,11 @@ Autodesk Fusion 360 has gained popularity among professionals and hobbyists in v
 
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH512d4QTec90decfa6e1e758dfb1cf94188?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-> Design procedure (Coming soon)
 
 <hr>
 <hr>
 
-### <a href="https://mdkamrulhossain016846.github.io/fasttut/">Hussain MD Kamrul</a>
+<a href="https://mdkamrulhossain016846.github.io/fasttut/">Hussain MD Kamrul</a>
 
 <div id="video-container">
         <video controls>
@@ -195,10 +215,105 @@ Autodesk Fusion 360 has gained popularity among professionals and hobbyists in v
 
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH512d4QTec90decfa6e7523a79b7217e601?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-> Design procedure (Coming soon)
+<hr>
+<hr>
 
+### AUTOCAD (CAD software)
+1.What is AutoCAD?
 
+AutoCAD is a 2D and 3D computer-aided design (CAD) software application for desktop, web, and mobile developed by Autodesk.
+It is a general drafting and design application used in industry by architects, project managers, engineers, graphic designers, city planners and other professionals to prepare technical drawings.
 
+2.Background
 
+The first version of AutoCAD by Autodesk was released in 1982. It was for CP/M and IBM PC platforms as a desktop app running on microcomputers with internal graphics controllers.
+AutoCAD remained dominant because of its yearly continuous updates. The 2022 version release is the 36th major release of AutoCAD for Windows and the 12th consecutive year of AutoCAD for Mac.
+Currently, AutoCAD has a multitude of specialized auxiliary tools which cover every kind of industrial fields related to 2D design and 3D modeling.
 
+3.Languages and extensions
 
+AutoCAD is available in 14 languages: English, German, French, Italian, Spanish, Japanese, Korean, Chinese Simplified, Chinese Traditional, Brazilian Portuguese, Russian, Czech, Polish and Hungarian (also through additional language packs).
+
+AutoCAD supports a number of APIs for customization and automation. These include AutoLISP, Visual LISP, VBA, .NET and ObjectARX. 
+ObjectARX is a C++ class library, which was also the base for:
+
+* products extending AutoCAD functionality to specific fields
+* creating products such as AutoCAD Architecture, AutoCAD Electrical, AutoCAD Civil 3D 
+*third-party AutoCAD-based application.
+
+The disciplined specific enhancements we also find for AutoCAD are:
+* Advance Steel
+* AutoCAD Architecture
+* AutoCAD Electrical
+* AutoCAD Map 3D
+* AutoCAD Mechanical
+* AutoCAD MEP
+* AutoCAD Plant 3D
+* Autodesk Civil 3D
+
+4.Advantages of AutoCAD
+
+* Accurate and Reduced Errors
+* Save Time & Money
+* Easier Data Transfer
+* Controllable
+* Database for manufacturing
+* Easier Import/ Export of file
+* Apply Point Clouds
+* Layering feature
+
+5.How to get AutoCAD?
+
+Step 1: Access the Autodesk website
+
+Use web browsers like Google Chrome, Mozilla Firefox, etc. Then Go to the AutoCAD official website by using this link: https://www.autodesk.com.
+
+Step 2: Select Students and Educators from the Menu drop-down list.
+
+It will give you three options, i.e., free trials, students and educators, and worldwide sites. Here I am selecting the students and educators’ option.
+
+Step 3: You will see Get set up for career success with the Autodesk tab. Click Start now under the Download free software option from that tab.
+
+Step 4: It will list Autodesk products like 3DS Max, Maya, AutoCAD, etc. Under that, click on the AutoCAD option from the list.
+
+Step 5: If you have registered, click Sign in, and the system will forward you to your Autodesk Login information. Otherwise, click Create Account and create a new account using your email ID.
+
+Step 6: Select the version
+
+After signing in, you can select the version of AutoCAD you want to download and install and Operating System: 32-bit(2019 and previous version) or 64-bit.
+
+Then choose a language which is preferable for you.
+
+The Serial number and product key will be displayed. Copy this information as required for activation after installing the software to authenticate the download.
+
+Now click on download. You will see a prompt with a security warning from the download. In that prompt, click “Run” or “Ok” (which is applicable to continue the download process), as Autodesk products are relatively secure.
+
+Step 7: License and Services Agreement
+
+After that, you will see the “License and Services Agreement” Prompt. Read it carefully, click on the “I Accept” option, and click the next button to install AutoCAD on your Windows System.
+
+The AutoCAD Download Manager will display. Moreover, this can take some time.
+
+Step 8: After installing the manager, you will see an “Autodesk Download Manager” window. Specify the desired path where you want to save that file and click on OK.
+
+The Autodesk Download Manager will be loading. This may take some time.
+
+Step 9: After that, you will see a window where you can configure the AutoCAD installation process. However, here we give the path where you want to save the files.
+
+Step 10: In the next window, select the Custom Option. Make sure all the features under the drop-down are checked.
+
+Step 11: Then, the next window will prompt. Click on the Install option.
+
+Step 12: After installing all the products and tools related to AutoCAD, Click on Finish.
+
+Step 13: After the installation, you must provide a Product Key to further use AutoCAD.
+
+In case you haven’t copied the Product Key previously, sign in to your Autodesk account on the website -> Click on your username -> Click on Autodesk Account.
+
+Step 14: Click on the “All Products and Services” option. This will show the products you have downloaded.
+
+Step 15: Under the AutoCAD option, click on the “More actions” drop-down -> click “Serial numbers”.
+
+Now you can see the Serial Numbers and the Product Keys of all the products you downloaded. Copy this information and activate your Autodesk product.
+
+Thus, now you can use AutoCAD software and design your models easily.
