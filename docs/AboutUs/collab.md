@@ -18,13 +18,27 @@ In the repository, go to the "Settings" tab and navigate to "Collaborators & Tea
 Invite team members to collaborate by adding their GitHub usernames or email addresses. Ensure they have GitHub accounts.
 (In this course teacher's open the repository and invite each team's admin and admin invite other team member's)
 
+To invite member go to repository setting and click collaborator and team then add people
+
+<img src="img/collab/collab_1.png">
+
+Then right the email address of the person whom you want to invite and send invitation
+
+<img src="img/collab/collab_2.png">
+
+After the acceptation of invitation member's should be found in the manage access.
+
+<img src="img/collab/collab_3.png">
+
 3. Establish Clear Communication:
 
 Use various communication tools to ensure efficient and clear communication.Like wechat group, QQ group and so on.
 
 4. Define Project Roles and Responsibilities:
 
-Clearly define the roles and responsibilities of each team member. This can help ensure that everyone understands their contributions.
+By the roles and responsibilities of each team member the role can set by clicking Role.
+
+<img src="img/collab/collab_4.png">
 
 5. Choose a Version Control Workflow:
 
