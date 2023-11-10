@@ -1,5 +1,5 @@
  ### Team Collaboration 
- <h1>Team Collaboration</h1>
+ 
 Team collaboration is very very important for this course because course work is huge and you will be tired.If the team can collaborate with each other this course will be fun and easy and you can enjoy your holiday.
 
 <h2>How to collaborate -</h2>
