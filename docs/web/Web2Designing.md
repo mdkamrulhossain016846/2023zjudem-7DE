@@ -1,5 +1,6 @@
  ### Team Collaboration 
- (Here we describe the team collaboration way after build our website, so the picture used here are taken from our team repository. Do not be confused about repository name, when you are working with your team always remember you have use your team repository)
+ (Here we describe the team collaboration way after build our website, so the picture used here are taken from our team repository. Do not be confused about repository name, when you are working with your team always remember you have use your team repository, just follow the steps)
+ <br>
  <br>
 Team collaboration is very very important for this course because course work is huge and you will be tired.If the team can collaborate with each other this course will be fun and easy and you can enjoy your holiday.
 
