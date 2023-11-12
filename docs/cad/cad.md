@@ -218,6 +218,26 @@ To install click <a href="https://www.autodesk.com/products/fusion-360/overview?
 <hr>
 <hr>
 
+<a href="https://naharezannat.github.io/"> Most Nahare Zannat</a>
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH512d4QTec90decfa6e736bb81088d9a0d0?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+<hr>
+<hr>
+
+<a href="https://daphnetimbo.github.io/daphnes_page/"> Daphne Isatou Timbo </a>
+
+
+<p style="color: red;">Hello, I am Daphne Isatou Timbo, I am facing this problem (check the video below) to use my Autodesk Fusion360 that is why I could not do my design.</p>
+
+<div id="video-container">
+        <video controls>
+            <source src="video/video_cad/daphne_cad.mp4" type="video/mp4">
+        </video>
+    </div>
+<hr>
+<hr>
+
+
 ### AUTOCAD (CAD software)
 1.What is AutoCAD?
 
