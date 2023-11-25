@@ -395,14 +395,31 @@ STEP 3 : Search for member by their name or email address
 <img src="img/collab/collab_04.png">
 <br>
 <br>
-STEP 4 : Select the member and chose the  role and Add
+STEP 4 : Select the member and choose the  role and Add
 <br>
 <br>
 <img src="img/collab/collab_05.png">
 <br>
 <br>
-
 Now the member name is in the Collaborators and teams list.
 <br>
 <br>
 <img src="img/collab/collab_06.png">
+
+Roles could be change by the team requirements :
+Here the newly added member set a maintain role and another member as a write role.
+<br>
+<br>
+<img src="img/collab/collab_07.jpg">
+<br>
+<br>
+Like this way there 5 kinds of roles in github to maintain project :
+
+1.Read - Can read and clone this repository. Can also open and comment on issues and pull requests.<br><br>
+2.Triage - Can read and clone this repository. Can also manage issues and pull requests.<br><br>
+3.Write - Can read, clone, and push to this repository. Can also manage issues and pull requests.<br><br>
+4.Maintain - Can read, clone, and push to this repository. They can also manage issues, pull requests, and some repository settings.<br><br>
+5.Admin - Can read, clone, and push to this repository. Can also manage issues, pull requests, and repository settings, including adding collaborators.<br><br>
+
+
+
