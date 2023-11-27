@@ -57,8 +57,8 @@ The plan is to cover the SDG 3& 6 for sanitation along with good health and well
   .image-container img{
     display: inline-block;
     margin: 10px;
-    max-width: 100%;
-    max-height: 100%;
+    max-width: 80%;
+    max-height: 80%;
   }
 </style>
 
