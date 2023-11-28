@@ -7,17 +7,17 @@ To learn about arduino basic click <a href="https://www.nexmaker.com/doc/5arduin
 <h2>LED control with switch</h2>
 Controlling two LEDs with a switch using an Arduino is a common beginner project that demonstrates input and output interfacing. Below is a step-by-step process to achieve this:
 
-Components Required:
+* Components Required:
 
-- Arduino board
-- Two LEDs (different colors)<br>
-- Two 220-ohm resistors (or appropriate resistors for your LEDs)
-- one 1040 kΩ Resistor
-- Momentary push-button switch
+* Arduino board
+* Two LEDs (different colors)<br>
+* Two 220-ohm resistors (or appropriate resistors for your LEDs)
+* one 1040 kΩ Resistor
+* Momentary push-button switch
 
 Step 1: Circuit Connection
 
-- Place your Arduino board on the breadboard.
+- Place your Arduino board on the breadboard. 
 - Connect the longer leg (anode) of the first LED to digital pin 2 on the Arduino. Use a 220-ohm resistor in series with this LED to limit the current.
 - Connect the anode of the second LED to digital pin 3 on the Arduino, also with a 220-ohm resistor.
 - Connect the shorter leg (cathode) of both LEDs to the Arduino's ground (GND) pin.
